@@ -168,9 +168,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 * [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
-* [VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)
+* [OpenCV](https://opencv.org/)
+* [NumPy](https://numpy.org/)
 * [Shapely Geometry Library](https://shapely.readthedocs.io/)
-
-```
+* [VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)
 
 ---
